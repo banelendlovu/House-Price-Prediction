@@ -2,6 +2,8 @@
 
 Embark on a journey through California's real estate landscape with my machine learning project focused on predicting house prices. Delving into Python within Jupyter Notebook, I've engineered an innovative solution to forecast housing costs across the Golden State.
 
+![download](https://github.com/banelendlovu/House-Price-Prediction/blob/main/House%20Price%20Prediction.png)
+
 ## Data Origin:
 The dataset, sourced from Kaggle: https://www.kaggle.com/datasets/camnugent/california-housing-prices?resource=download, serves as the bedrock of this project, providing comprehensive insights into California's housing market dynamics.
 
